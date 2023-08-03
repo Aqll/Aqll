@@ -8,6 +8,6 @@
 
 - 👨‍💻 All of my projects are currently being updated at [https://aqll.github.io](https://aqll.github.io)
 - ⚡ Fun fact: Hummingbirds are the only birds that can fly backward
-<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="right"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="470" height="240"  /></p>
+<img align="left" alt="coding" width="390" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="right"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="460" height="240"  /></p>
 
