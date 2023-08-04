@@ -1,6 +1,6 @@
 ![logo](https://github.com/Aqll/Aqll/blob/main/banner.png)
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h3 align="center">A software engineer on a mission to craft efficient and high-performing code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h1 align="center">Hey there <img src="https://github.com/Aqll/imgs/blob/main/3.gif" width="40"></h1>
+<h3 align="center">A software engineer on a mission to craft efficient and high-performing code <img src="https://github.com/Aqll/imgs/blob/main/2.gif" width="50"></h3>
 
 
 
@@ -11,6 +11,6 @@
 
 
 
-<img align="right" alt="coding" height="225" width="390" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
-<img align="left" alt="coding" width="390" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" height="225" width="390" src="https://github.com/Aqll/imgs/blob/main/4.gif">
+<img align="left" alt="coding" width="390" src="https://github.com/Aqll/imgs/blob/main/1.gif">
 
