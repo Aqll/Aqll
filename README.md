@@ -5,10 +5,9 @@
 
 
 
-
-- 👨‍💻 All of my projects are currently being updated at [https://aqll.github.io](https://aqll.github.io)
-- ⚡ Fun fact: Hummingbirds are the only birds that can fly backward
-
+- 💡 I love exploring new technologies and developing software solutions
+- 👨‍💻 All of my projects are currently being updated [here](https://aqll.github.io)
+- ⚡ I find myself captivated by the intricacies of __systems programming__ and __backend development__
 
 
 <img align="right" alt="coding" height="225" width="390" src="https://github.com/Aqll/imgs/blob/main/4.gif">
