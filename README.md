@@ -5,11 +5,14 @@
 
 
 
-- 💡 I love exploring new technologies and developing software solutions
+- 💡 I have a natural curiosity for the way things work
 - 👨‍💻 All of my projects are currently being updated [here](https://aqll.github.io)
 - ⚡ I find myself captivated by the intricacies of __systems programming__ and __backend development__
+
 
 
 <img align="right" alt="coding" height="225" width="390" src="https://github.com/Aqll/imgs/blob/main/4.gif">
 <img align="left" alt="coding" width="390" src="https://github.com/Aqll/imgs/blob/main/1.gif">
 
+_"The Internet was done so well that most people think of it as a natural resource like the
+Pacific Ocean, rather than something that was man-made."_
