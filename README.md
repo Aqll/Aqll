@@ -10,7 +10,10 @@
 - ⚡ I find myself captivated by the intricacies of __systems programming__ and __backend development__
 
 
+<div style="display: flex; width: 100%;">
+    <img style="flex: 1;" alt="coding" height="225" width="49%" src="https://github.com/Aqll/imgs/blob/main/4.gif">
+    <img style="flex: 1;" alt="coding" width="49%" src="https://github.com/Aqll/imgs/blob/main/1.gif">
+</div>
 
-<img align="right" alt="coding" height="225" width="390" src="https://github.com/Aqll/imgs/blob/main/4.gif">
-<img align="left" alt="coding" width="390" src="https://github.com/Aqll/imgs/blob/main/1.gif">
-
+_"The Internet was done so well that most people think of it as a natural resource like the
+Pacific Ocean, rather than something that was man-made."_
