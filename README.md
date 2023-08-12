@@ -12,8 +12,11 @@
 
 <div style="display: flex; width: 100%;">
     <img style="flex: 1;" alt="coding" width="49%" src="https://github.com/Aqll/imgs/blob/main/1.gif">
-    <img style="flex: 1;" alt="coding" height="205" width="49%" src="https://github.com/Aqll/imgs/blob/main/4.gif">
+    <img style="flex: 1;" alt="coding" height="280px" width="49%" src="https://github.com/Aqll/imgs/blob/main/4.gif">
 </div>
 
+
+
+---
 _"The Internet was done so well that most people think of it as a natural resource like the
 Pacific Ocean, rather than something that was man-made."_
