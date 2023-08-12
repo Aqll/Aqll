@@ -11,7 +11,7 @@
 
 
 <div style="display: flex; width: 100%;">
-    <img style="flex: 1;" alt="coding" height="225" width="49%" src="https://github.com/Aqll/imgs/blob/main/4.gif">
+    <img style="flex: 1;" alt="coding" height="215" width="49%" src="https://github.com/Aqll/imgs/blob/main/4.gif">
     <img style="flex: 1;" alt="coding" width="49%" src="https://github.com/Aqll/imgs/blob/main/1.gif">
 </div>
 
